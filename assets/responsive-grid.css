@@ -44,3 +44,7 @@ main .example>div {
     grid-template-areas: "header" "aside" "content" "footer";
   }
 }
+main img {
+  height: 100%;
+  width: 100%;
+}
