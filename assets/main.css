@@ -48,12 +48,6 @@ header {
   content: "Header"
 }
 
-
-main img {
-  height: 10.5vh;
-  width: 5.5vw;
-}
-
 main {
   min-width: 100px;
   min-height: 100px;
