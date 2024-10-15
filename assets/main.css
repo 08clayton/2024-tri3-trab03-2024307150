@@ -49,12 +49,28 @@ main {
   min-height: 100px;
   background-color: #808080;
   padding: 1rem;
-
 }
 
 footer {
   min-width: 100px;
   min-height: 100px;
-  background-color: #D980FA;
-
+  background-color: #301906;
+  text-align: center;
+  padding: 10px;
 }
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+footer p{
+  color: #FFFAF0;
+}
+
